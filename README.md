@@ -19,3 +19,7 @@ Pour l'essayse, lancez :
 ```bash 
 ./computer_player.py
 ```
+
+
+Test de rajout: la bite à Hogge
+
